@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @theonetruewolf
+- 👀 I’m interested in gaming and music production
+- 🌱 I’m currently learning JS
